@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","SHAYARAKHAWAB")
+OWNER_USERNAME = getenv("OWNER_USERNAME","lI_ROMAAN_ll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "SHAYARMUSIC_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "TAMANNA_ROBO_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Nayra_X_Music")
+BOT_NAME = getenv("BOT_NAME" , "TAMANNA_ROBO_BOT")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "NAYRA_X_ROBOOT")
+ASSUSERNAME = getenv("ASSUSERNAME" , "")
 # ---------------------------------------------------------
 
 
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002035485289))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6065525851))
+OWNER_ID = int(getenv("OWNER_ID", 7493957405))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AboutshayarAkhawab")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Y_K_B_M")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_P_U_L_lI")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ll_A_C_H_ll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/e3b37d9efa7bb7a8c8a93.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/49291ef6754d2dbaf8ec3.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/e3b37d9efa7bb7a8c8a93.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/1001fb65eeeda2006ea47.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
