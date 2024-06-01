@@ -1,14 +1,14 @@
 <h2 align="center">
-    ─「 ˹𝙉𝙖𝙮𝙧𝙖 ✗ 𝙍𝙤𝙗𝙤𝙩 ♪ 」─
+    ─「 ˹ 𝚻꯭ᴀᴍᴀᴎᴎᴀ ꭙ 𝚳꯭ᴜᴤᴉᴒ ˼ 」─
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝙉𝙖𝙮𝙧𝙖+✗+𝙍𝙤𝙗𝙤𝙩+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗭𝗜𝗗𝗗𝗜+𝗦𝗛𝗔𝗬𝗔𝗥+🇧 🇦 🇧 🇾 +😈)](https://github.com/KING0712/QUEEN_MUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝙉𝙖𝙮𝙧𝙖+✗+𝙍𝙤𝙗𝙤𝙩+𝐑𝐄𝐏𝐎;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃+🔥;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝐑 𝛔 ϻ 𝛂‌ 𝛂‌ 𝛈 )](https://github.com/KING0712/QUEEN_MUSIC)
 
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/50e6e0e7a5091ccdb8cdc.jpg">
+  <img src="https://telegra.ph/file/1001fb65eeeda2006ea47.jpg">
 </p>
 
 
