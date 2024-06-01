@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "TAMANNA_ROBO_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "TAMANNA_ROBO_BOT")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "")
+ASSUSERNAME = getenv("ASSUSERNAME" , "lI_TANU_MUSIC_ll")
 # ---------------------------------------------------------
 
 
